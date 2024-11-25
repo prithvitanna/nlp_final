@@ -1,0 +1,71 @@
+{"premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "hypothesis": "The church is not filled with song.", "label": 2}
+{"premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "hypothesis": "A choir singing at a church.", "label": 0}
+{"premise": "A woman with a green headscarf, blue shirt and a very big grin.", "hypothesis": "The woman is not very happy.", "label": 2}
+{"premise": "A woman with a green headscarf, blue shirt and a very big grin.", "hypothesis": "The woman has been eating.", "label": 1}
+{"premise": "A woman with a green headscarf, blue shirt and a very big grin.", "hypothesis": "The woman is green.", "label": 2}
+{"premise": "An old man with a package poses in front of an advertisement.", "hypothesis": "An old man poses in front of a package.", "label": 2}
+{"premise": "An old man with a package poses in front of an advertisement.", "hypothesis": "A man poses by an ad.", "label": 0}
+{"premise": "A statue at a museum that no seems to be looking at.", "hypothesis": "There is a statue that many people seem to be interested in.", "label": 2}
+{"premise": "A statue at a museum that no seems to be looking at.", "hypothesis": "Tons of people are not gathered around the statue.", "label": 2}
+{"premise": "A land rover is being driven across a river.", "hypothesis": "Tons of people are not gathered around the statue.", "label": 2}
+{"premise": "A land rover is being driven across a river.", "hypothesis": "Tons of people are not gathered around the statue.", "label": 2}
+{"premise": "A land rover is being driven across a river.", "hypothesis": "A vehicle is crossing a lake.", "label": 2}
+{"premise": "A land rover is being driven across a river.", "hypothesis": "A rover is not stuck in the middle of the river.", "label": 0}
+{"premise": "A man playing an electric guitar on stage.", "hypothesis": "A man not playing banjo on the floor.", "label": 0}
+{"premise": "A man playing an electric guitar on stage.", "hypothesis": "A child playing guitar on stage", "label": 2}
+{"premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "hypothesis": "A european doctor is looking at a book", "label": 1}
+{"premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "hypothesis": "A man is not eating pb and j", "label": 0}
+{"premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "hypothesis": "A doctor is reading", "label": 0}
+{"premise": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.", "hypothesis": "A brown girl runs leans over an object", "label": 2}
+{"premise": "A young family enjoys feeling ocean waves lap at their feet", "hypothesis": "A family is not out at a restaurant", "label": 0}
+{"premise": "A young family enjoys feeling ocean waves lap at their feet", "hypothesis": "A family is at the river", "label": 2}
+{"premise": "A couple walks hand in hand down a street.", "hypothesis": "A couple is walking apart", "label": 2}
+{"premise": "A couple walks hand in hand down a street.", "hypothesis": "The couple is together", "label": 0}
+{"premise": "A couple walks hand in hand down a street.", "hypothesis": "The couple is not sitting on a bench", "label": 0}
+{"premise": "A couple walks hand in hand down a street.", "hypothesis": "The couple is not sitting on a bench", "label": 0}
+{"premise": "3 young man in hoods standing in the middle of a quiet street facing the camera.", "hypothesis": "Three hood wearing people sit in the street.", "label": 2}
+{"premise": "A man reads the paper in a bar with green lighting.", "hypothesis": "A man is not inside.", "label": 2}
+{"premise": "A man reads the paper in a bar with green lighting.", "hypothesis": "The man is not climbing a mountain.", "label": 2}
+{"premise": "Three firefighter come out of subway station.", "hypothesis": "Three firefighters coming up from a bus station.", "label": 2}
+{"premise": "Three firefighter come out of subway station.", "hypothesis": "Three firefighters not playing cards inside a fire station.", "label": 0}
+{"premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.", "hypothesis": "A person is not near a pile of coconuts", "label": 2}
+{"premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.", "hypothesis": "A person is not near a pile of coconuts", "label": 2}
+{"premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.", "hypothesis": "A person is not burning a straw hat", "label": 0}
+{"premise": "Male in a blue jacket decides to lay in the grass.", "hypothesis": "The guy wearing a blue jacket is rolling on the green grass", "label": 2}
+{"premise": "During a calf roping a cowboy calls of his horse.", "hypothesis": "A man ropes his calf unsuccesfully", "label": 0}
+{"premise": "A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.", "hypothesis": "A man is on a playground", "label": 2}
+{"premise": "A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.", "hypothesis": "The boy is not sitting on the school bus on his way home.", "label": 0}
+{"premise": "A woman wearing a ball cap squats down to touch the cracked earth.", "hypothesis": "A squatting man wearing a hat touching the ground.", "label": 2}
+{"premise": "A woman wearing a ball cap squats down to touch the cracked earth.", "hypothesis": "A squatting man wearing a hat touching the ground.", "label": 2}
+{"premise": "Two children re laying on a rug with some wooden bricks laid out in a square between them.", "hypothesis": "Two children are not playing catch at a park.", "label": 0}
+{"premise": "A man in a black shirt is looking at a bike in a workshop.", "hypothesis": "A man is not wearing a red shirt.", "label": 0}
+{"premise": "A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.", "hypothesis": "A person is in a tiny garage.", "label": 1}
+{"premise": "A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.", "hypothesis": "A man repairs mountain bicycles.", "label": 1}
+{"premise": "Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.", "hypothesis": "People wait at a train station.", "label": 1}
+{"premise": "A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.", "hypothesis": "A tall child wearing a red top is standing behind a blond headed child", "label": 1}
+{"premise": "A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.", "hypothesis": "A person outside pushing a stroller.", "label": 1}
+{"premise": "People are conversing at a dining table under a canopy.", "hypothesis": "People are talking underneath a blue covering.", "label": 1}
+{"premise": "A girl playing a violin along with a group of people", "hypothesis": "A short girl is playing an instrument", "label": 1}
+{"premise": "Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.", "hypothesis": "Three bald men look at a camera", "label": 1}
+{"premise": "A Ford car is making a right turn as 3 males are walking across the street behind the car.", "hypothesis": "A red car making a right turn had three pedestrians cross behind it", "label": 1}
+{"premise": "Three boys in white shirts are walking behind an older model Ford car.", "hypothesis": "there are three skinny boys", "label": 1}
+{"premise": "Three girls blow out the candles of a cake made of Peeps.", "hypothesis": "Some people are blowing out scented candles", "label": 1}
+{"premise": "Three girls blow out the candles of a cake made of Peeps.", "hypothesis": "Some people are blowing out scented candles", "label": 1}
+{"premise": "A crowd of people looking up at 3 people on the edge of the roof of a building.", "hypothesis": "The crowd on the ground is watching 3 men on the roof's edge", "label": 1}
+{"premise": "A woman working long hours.", "hypothesis": "A young woman is working", "label": 1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
