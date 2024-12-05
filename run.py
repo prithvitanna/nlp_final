@@ -7,6 +7,8 @@ from helpers import prepare_dataset_nli, prepare_train_dataset_qa, \
 import os
 import json
 
+os.environ["WANDB_MODE"] = "disabled"
+
 NUM_PREPROCESSING_WORKERS = 2
 
 
